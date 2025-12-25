@@ -10,7 +10,7 @@ A lightweight `ls` command for Windows. Translates Unix ls syntax to native Wind
 cargo install --git https://github.com/chasingimpact/ls-transpiler
 ```
 
-Or download from [Releases](https://github.com/chasingimpact/ls-transpiler/releases) and add to PATH.
+Or build from source and add to PATH.
 
 ## Usage
 
